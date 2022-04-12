@@ -1,11 +1,15 @@
 # cs455Final-Project
 # Contents:
-Screenshot,
-Project description,
-Install instructions,
-Features list,
-Operating instructions,
-
+ Screenshot,
+ Project description,
+ Install instructions,
+ Features list,
+ Operating instructions,
+ Manifest,
+ Bug list,
+ Configuration instructions,
+ Contact information
+ Copyright information
 # Screen shot
 ![455](https://user-images.githubusercontent.com/103437069/162877832-2706d9c8-ad6e-46eb-afcc-ef8901793bd4.png)
 # Project description
@@ -24,7 +28,7 @@ READme.md
 # Bug list
 unexepct token
 undefine variable
-#  Configuration instructions
+# Configuration instructions
 both IOS and andriod can run this app.
 #  Contact information
 You can contact me through email - hjb494@urgina.ca
