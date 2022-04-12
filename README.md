@@ -1,10 +1,10 @@
 # cs455Final-Project
 # Contents:
-screenshot
-Project description
-Install instructions
-Features list
-Operating instructions
+Screenshot,
+Project description,
+Install instructions,
+Features list,
+Operating instructions,
 
 # Screen shot
 ![455](https://user-images.githubusercontent.com/103437069/162877832-2706d9c8-ad6e-46eb-afcc-ef8901793bd4.png)
