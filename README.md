@@ -1,15 +1,15 @@
 # cs455Final-Project
 # Contents:
- ./Screenshot,
- ./Project description,
- ./Install instructions,
- ./Features list,
- ./Operating instructions,
- ./Manifest,
- ./Bug list,
- ./Configuration instructions,
- ./Contact information
- ./Copyright information
+ Screenshot,
+ Project description,
+ Install instructions,
+ Features list,
+ Operating instructions,
+ Manifest,
+ Bug list,
+ Configuration instructions,
+ Contact information
+ Copyright information
 # Screen shot
 ![455](https://user-images.githubusercontent.com/103437069/162877832-2706d9c8-ad6e-46eb-afcc-ef8901793bd4.png)
 # Project description
@@ -32,7 +32,7 @@ undefine variable
 both IOS and andriod can run this app.
 #  Contact information
 You can contact me through email - hjb494@urgina.ca
-./#  Copyright information
+#  Copyright information
 open source
 # Credits and acknowledgments
 Thanks for the guidance of Dr.T!
