@@ -32,7 +32,7 @@ undefine variable
 both IOS and andriod can run this app.
 #  Contact information
 You can contact me through email - hjb494@urgina.ca
-#  Copyright information
+./#  Copyright information
 open source
 # Credits and acknowledgments
 Thanks for the guidance of Dr.T!
