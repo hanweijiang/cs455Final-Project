@@ -1,5 +1,5 @@
 # cs455Final-Project
-#Contents:
+# Contents:
 screenshot
 Project description
 Install instructions
